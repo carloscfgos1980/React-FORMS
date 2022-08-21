@@ -10,7 +10,7 @@ exercise:
 
 https://scrimba.com/scrim/ceLWEsp?pl=p7P5Hd
 
-Lesson # 48. React Container & Component Architecture
+# Lesson # 48. React Container & Component Architecture
 
 https://scrimba.com/scrim/cwRZ9fG?pl=p7P5Hd
 
